@@ -1,0 +1,6 @@
+{
+  "name": "Neon Runner: Cyberpunk 2099",
+  "description": "3D futuristic endless runner featuring an original boy protagonist running through a neon-lit cyberpunk metropolis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
